@@ -22,3 +22,16 @@ misal : node fftauto.js
 6. INGET, setting waktunya MILISECOND, jadi lu buat dengan angka besar. misal 180000 ( 3 menit). Semakin kecil angka, semakin cepet lu kena fitur block dari instagram.
 
 *Kalo ada salah tolong koreksi.
+
+
+Cara Pakai FFTAUTO Di Android *No Root*:
+1. Download termux
+2. Buka termux
+3. Ketik , pkg install nodejs
+4. Ketik , npm install
+5. Ketik , npm install instagram-private-api
+6. Ketik , pkg install git
+7. Ketik , git clone https://github.com/ccocot/Unfollow-not-Followback
+8. Ketik , cd Unfollow-not-Followback
+9. Ketik , node fftauto.js
+#CMIIW
