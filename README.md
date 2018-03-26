@@ -31,7 +31,7 @@ Cara Pakai FFTAUTO Di Android *No Root*:
 4. Ketik , npm install
 5. Ketik , npm install instagram-private-api
 6. Ketik , pkg install git
-7. Ketik , git clone https://github.com/ccocot/Unfollow-not-Followback
+7. Ketik , git clone https://github.com/gegeup1/ig
 8. Ketik , cd Unfollow-not-Followback
 9. Ketik , node fftauto.js
 #CMIIW
